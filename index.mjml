@@ -1,0 +1,42 @@
+<mjml>
+  <mj-body>
+   <mj-section background-color="#ff8c00">
+    <mj-column>
+    <mj-image src="https://pauloez14.github.io/Jetz-Aniversario/imagens/back.png" alt="" />
+    </mj-column>
+    </mj-section>
+    <mj-section background-url="imagens/rodape.png" background-size="cover" background-repeat="no-repeat">
+    <mj-column width="600px">
+    <mj-text font-family="Calibri" font-size="20px" >
+    <br>Olá <b>[[nome_completo_cliente]]</b>,</br>
+<br>Hoje é um dia especial, e estamos aqui para celebrá-lo!</br>
+<br>Desejamos a você um aniversário repleto de alegria, amigos e uploads de momentos especiais, afinal a vida fica melhor quando compartilhada com amigos e familiares.</br>
+<br>Estamos aqui para mantê-lo conectado ao mundo, proporcionando uma experiência de alta qualidade.</br>
+<br>Feliz aniversário!</br>
+<br>Até mais,</br>
+    </mj-text>
+    <mj-text font-style="italic"
+                   font-family="Calibri"
+                   font-size="20px"
+                   color="#ff8c00"><b>Equipe Jetz Internet<b></mj-text>
+    </mj-column>
+    </mj-section>
+    <mj-section background-url="imagens/roda.png" background-size="cover" background-repeat="no-repeat">
+    <mj-column>
+    <mj-text font-size="15px">
+      <b>Siga-nos nas redes sociais</b>
+    </mj-text>
+    <mj-social>
+      <mj-social-element icon-size="35px" src="https://pauloez14.github.io/Jetz-Aniversario/imagens/facebook.png" href="https://www.facebook.com/internetjetz">
+      </mj-social-element>
+      <mj-social-element icon-size="35px" src="https://pauloez14.github.io/Jetz-Aniversario/imagens/instagram.png" href="https://www.instagram.com/internetjetz/">
+      </mj-social-element>
+      <mj-social-element icon-size="35px" src="https://pauloez14.github.io/Jetz-Aniversario/imagens/tiktok.png" href="https://www.tiktok.com/@jetzinternet?_t=8levffs41jx&_r=1">
+      </mj-social-element>
+      <mj-social-element icon-size="35px" src="https://pauloez14.github.io/Jetz-Aniversario/imagens/wpp.png" href="https://api.whatsapp.com/send/?phone=5591981224040&text&type=phone_number&app_absent=0">
+      </mj-social-element>
+    </mj-social>
+    </mj-column>
+    </mj-column>
+  </mj-body>
+</mjml>
